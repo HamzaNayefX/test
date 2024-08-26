@@ -56,9 +56,6 @@
 									<goal>report</goal>
 								</goals>
 								<configuration>
-									<excludes>
-										<exclude>src/main/java/project/Report.java</exclude>
-									</excludes>
 									<formats>
 										<format>XML</format>
 									</formats>
